@@ -1,3 +1,6 @@
+## Blog Post
+https://darektidwell.com/machine-learning-for-restaurants-sql-database/
+
 ## SQLite3 Database
 
 - menuitem Table
